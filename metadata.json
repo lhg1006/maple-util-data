@@ -1,7 +1,9 @@
 {
   "version": "389",
-  "generated": "2025-07-02T07:06:38.669Z",
-  "source": "complete-*.ts files (text extraction)",
+  "generated": "2025-07-03T00:06:23.227Z",
+  "source": "complete-*.ts files (deduplicated)",
+  "totalItems": 57490,
+  "duplicatesRemoved": 0,
   "files": {
     "monsters": "monsters.json",
     "maps": "maps.json",
